@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DLL",
+    "\\Example",
+    "\\Example\\SRC",
+    "\\Example\\SRC\\AccessControlDemo",
+    "\\Example\\SRC\\AccessControlDemo\\ReaderDLL"
+  ],
+  "SelectedNode": "\\Example\\SRC\\AccessControlDemo\\MainForm.cs",
+  "PreviewInSolutionExplorer": false
+}
